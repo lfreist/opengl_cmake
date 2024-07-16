@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.28)
+cmake_minimum_required(VERSION 3.1)
 project(opengl_cmake)
 
 set(CMAKE_CXX_STANDARD 23)
